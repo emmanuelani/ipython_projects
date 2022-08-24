@@ -1,5 +1,6 @@
-.\__pycache__\
+__pycache__
 
+emma.jpg
 log.txt
 spam.csv
 titanic.csv
